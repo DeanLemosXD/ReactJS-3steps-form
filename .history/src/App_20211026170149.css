@@ -1,0 +1,23 @@
+.app {
+  background-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background: #12c2e9;
+  background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+  background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); 
+  
+   
+
+}
+
+.form-container {
+  background: #fff;
+  border-radius: 20px;
+  padding: 30px 80px;
+  max-width: 800px;
+  margin: 0 auto;
+  box-shadow: 0 15px 16px .17px rgba(0,0,0,0.05);
+}
